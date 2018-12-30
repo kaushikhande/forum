@@ -5,4 +5,6 @@
 - [x] Add haml and other gems
 - [x] Add post CRUD 
 - [x] Setting up post index page
-- [ ] Lorem ipsum
+- [x] Set up devise
+- [x] Connect Users and posts
+- [ ] Add Navigation
