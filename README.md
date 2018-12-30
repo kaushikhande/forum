@@ -4,5 +4,5 @@
 - [x] Add Post
 - [x] Add haml and other gems
 - [x] Add post CRUD 
-- [ ] Setting up post index page
+- [x] Setting up post index page
 - [ ] Lorem ipsum
