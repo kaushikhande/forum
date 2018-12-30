@@ -5,4 +5,5 @@
 - [x] Add haml and other gems
 - [x] Add post CRUD 
 - [x] Setting up post index page
+- [ ] Set up devise
 - [ ] Lorem ipsum
