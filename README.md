@@ -7,3 +7,4 @@
 - [x] Setting up post index page
 - [x] Set up devise
 - [x] Connect Users and posts
+- [ ] Add Navigation
